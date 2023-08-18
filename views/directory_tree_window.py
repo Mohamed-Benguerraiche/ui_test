@@ -17,5 +17,6 @@ class DirectoryTreeWindow:
         # Afficher le texte de la variable 'text' dans la fenêtre de sortie
         directory_tree = DirectoryTreeWindowController.get_directory_tree(config_path, 0)
         self.window.addstr(1, 1, directory_tree, curses.color_pair(1))
+        
         # Dessiner l'arborescence des dossiers ici
         self.window.refresh()

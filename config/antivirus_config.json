@@ -7,7 +7,7 @@
 			{
 				"Name" : "Analyze",
 				"Description": "Antivirus",
-				"CurrentDirectory": "~/PyOps",
+				"CurrentDirectory": "./",
 				"Params" : {
 					"Param1" : "path",
 					"Param2" : "ConfigFile_path"

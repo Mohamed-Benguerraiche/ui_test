@@ -1,5 +1,6 @@
 import json
 import os
+import subprocess
 import modules.logging.log as log
 
 class DirectoryTreeWindowController():
@@ -20,8 +21,9 @@ class DirectoryTreeWindowController():
             current_directory = config["Application"]["Modules"]["Actions"][fonction_index]["CurrentDirectory"]
             tree_command = f"tree -d {current_directory}"
             try:
-                tree_output = os.popen(tree_command).read()
-                return tree_output
+                tree_output = subprocess.Popen(tree_command, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, stdin=subprocess.PIPE)   
+                tree_output = tree_output.stdout.read().decode("utf-8")
+                return tree_output                
             except Exception as e:
                 print(f"Error running tree command: {e}")
     

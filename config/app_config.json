@@ -25,42 +25,42 @@
         {
           "Name": "AI",
           "Description": "AI",
-          "CurrentDirectory": "~/PyOps",
+          "CurrentDirectory": "./",
           "ConfigPath": "AI_config.json",
           "Shortcut": "1"
         },
         {
           "Name": "Antivirus",
           "Description": "Antivirus",
-          "CurrentDirectory": "~/PyOps",
+          "CurrentDirectory": "./",
           "ConfigPath": "antivirus_config.json",
           "Shortcut": "2"
         },
         {
           "Name": "Explorer",
           "Description": "Explorer",
-          "CurrentDirectory": "~/PyOps",
+          "CurrentDirectory": "./",
           "ConfigPath": "explorer_config.json",
           "Shortcut": "3"
         },
         {
           "Name": "GitHub",
           "Description": "GitHub",
-          "CurrentDirectory": "~/PyOps",
+          "CurrentDirectory": "./",
           "ConfigPath": "github_config.json",
           "Shortcut": "4"
         },
         {
           "Name": "Templating",
           "Description": "Templating",
-          "CurrentDirectory": "~/PyOps",
+          "CurrentDirectory": "./",
           "ConfigPath": "templating_config.json",
           "Shortcut": "5"
         },     
         {
           "Name": "Options",
           "Description": "Options",
-          "DefaultPath": "~/PyOps",
+          "DefaultPath": "./",
           "TranslateConfigPath": "translate_config.json",
           "ApiKeysConfigPath": "ressources/api_keys.json",
           "Shortcut": "6"
