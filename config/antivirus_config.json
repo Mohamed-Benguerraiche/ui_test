@@ -1,0 +1,21 @@
+{
+	"Application":{
+		"Name": "PyOps",
+		"Modules":{
+		"Name" : "Antivirus",
+		"Actions" : [
+			{
+				"Name" : "Analyze",
+				"Description": "Antivirus",
+				"CurrentDirectory": "~/PyOps",
+				"Params" : {
+					"Param1" : "path",
+					"Param2" : "ConfigFile_path"
+					},
+				"Return" : "results",
+				"Shortcut": "1"
+			}		
+			]
+		}
+	}
+}
