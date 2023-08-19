@@ -1,19 +1,16 @@
 # header_window.py
 
 import curses
-from controllers.__main__ import *
+from controllers.__main__ import HeaderWindowController
 
 class HeaderWindow:
     def __init__(self, window):
         self.window = window
 
-    def draw(self):
+    def draw(self, config_path):
 
         # Dessiner les bordures
         self.window.border(0)
-
-        # On défini le fichier config à utiliser
-        config_path = "./config/app_config.json"
 
         # Afficher le texte des variables 'app_name', 'module_name' et 'current_directory' dans la fenêtre de sortie
         app_name = HeaderWindowController.get_application_name(config_path)

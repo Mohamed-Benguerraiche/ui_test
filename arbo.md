@@ -1,5 +1,7 @@
 PyOps/
 |-- main.py
+|-- arbo.md
+|-- README.md
 |-- config/
 |   |-- __init__.py
 |   |-- config_loader.py

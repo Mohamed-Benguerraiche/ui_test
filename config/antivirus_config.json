@@ -7,10 +7,10 @@
 			{
 				"Name" : "Analyze",
 				"Description": "Antivirus",
-				"CurrentDirectory": "./",
-				"Params" : {
-					"Param1" : "path",
-					"Param2" : "ConfigFile_path"
+				"CurrentDirectory": "~/PyOps",
+				"Params" : {	
+					"UserInput" : "path",			
+					"ApiKey" : "./ressources/api_keys.json"
 					},
 				"Return" : "results",
 				"Shortcut": "1"

@@ -1,0 +1,4 @@
+2023-08-19 10:34:14,613 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-19 10:34:14,613 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-19 10:34:14,614 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-19 10:34:14,615 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree

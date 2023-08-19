@@ -27,29 +27,27 @@ class QuickActionsWindowController:
     class QuickActions(MethodRegistry):
         pass
 
-    # Méthode statique pour ouvrir le fichier de configuration
+    # Fonction pour ouvrir le fichier de configuration
     @staticmethod
     def open_config_file(config_path):
         with open(config_path) as json_file:
             config = json.load(json_file)
-            return config       
+            return config
 
-    # Constructeur de la classe QuickActionsWindowController
+    # Créer le menu à partir du fichier de configuration
     def __init__(self, config_path) -> None:
         self.config = self.open_config_file(config_path)
         self.quick_actions = self.QuickActions.get_bound_jump_table()
 
-    # Enregistrement des actions rapides
+    # Obtenir le texte des actions rapides
+    def get_quick_actions_text(self):
+        actions = []
         for action in self.config["Application"]["Modules"]["Actions"]:
             @QuickActionsWindowController.QuickActions.register(action["Shortcut"], action["Name"])
-            def action_function(action=action):
-                print(f"Shortcut: {action['Shortcut']}, Function: {action['Name']}")
-              
+            def action_function(action=action, actions=actions):
+                actions.append(f"{action['Shortcut']}: {action['Name']}")
             action_function()
+        quick_actions_text = "Actions rapides :\n\n" + ", ".join(actions)
+        return quick_actions_text
 
-# # Variable vers le fichier de configuration
-# config_path = "../config/app_config.json"
-
-# # Créer une instance du contrôleur de fenêtre QuickActionsWindowController
-# QuickActionsWindowController(config_path)
 
