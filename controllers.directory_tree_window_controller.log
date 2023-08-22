@@ -1,0 +1,72 @@
+2023-08-21 10:44:45,152 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-21 10:44:45,152 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-21 10:44:45,152 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-21 10:44:45,154 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-21 10:46:24,174 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-21 10:46:24,174 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-21 10:46:24,174 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-21 10:46:24,175 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-21 10:54:34,019 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-21 10:54:34,019 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-21 10:54:34,019 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-21 10:54:34,020 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 09:49:04,754 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 09:49:04,754 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 09:49:04,754 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 09:49:04,757 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 14:42:26,731 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 14:42:26,731 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 14:42:26,731 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 14:42:26,732 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 14:44:19,766 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 14:44:19,766 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 14:44:19,766 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 14:44:19,767 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 14:46:53,077 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 14:46:53,077 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 14:46:53,077 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 14:46:53,079 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 15:01:19,508 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 15:01:19,508 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 15:01:19,508 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 15:01:19,510 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 16:02:27,020 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 16:02:27,020 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 16:02:27,020 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 16:02:27,022 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 16:06:29,270 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 16:06:29,270 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 16:06:29,270 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 16:06:29,272 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 16:10:48,766 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 16:10:48,766 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 16:10:48,766 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 16:10:48,767 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 16:11:20,191 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 16:11:20,191 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 16:11:20,192 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 16:11:20,193 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 16:11:27,337 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 16:11:27,337 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 16:11:27,337 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 16:11:27,338 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 16:11:48,472 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 16:11:48,473 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 16:11:48,473 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 16:11:48,474 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 16:12:00,974 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 16:12:00,974 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 16:12:00,974 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 16:12:00,975 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 16:12:10,886 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 16:12:10,886 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 16:12:10,886 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 16:12:10,888 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 18:35:24,539 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 18:35:24,539 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 18:35:24,539 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 18:35:24,541 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree
+2023-08-22 18:36:59,642 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering get_directory_tree
+2023-08-22 18:36:59,642 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Entering open_config_file
+2023-08-22 18:36:59,642 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called open_config_file
+2023-08-22 18:36:59,644 - User: s1e3b - INFO - controllers.directory_tree_window_controller - Successfully called get_directory_tree

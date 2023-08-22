@@ -1,9 +1,9 @@
-from .directory_tree_window import *
-from .quick_actions_window import *
-from .input_box_window import *
-from .output_window import *
-from .menu_window import *
-from .header_window import *
+from .directory_tree_window import DirectoryTreeWindow
+from .quick_actions_window import QuickActionsWindow
+from .input_box_window import InputBoxWindow
+from .output_window import OutputWindow
+from .menu_window import MenuWindow
+from .header_window import HeaderWindow
 
 
 

@@ -2,8 +2,7 @@
 import curses
 import signal
 import sys
-from controllers.__main__ import *
-from .__main__ import *
+from .__main__ import HeaderWindow, MenuWindow, DirectoryTreeWindow, OutputWindow, InputBoxWindow, QuickActionsWindow
 
 
 class CursesUI:

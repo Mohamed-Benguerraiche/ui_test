@@ -1,7 +1,7 @@
 # quick_actions_window.py
 
 import curses
-from controllers.__main__ import QuickActionsWindowController
+from controllers.__main__ import QuickActionsWindowController as QAWC
 
 class QuickActionsWindow:
     def __init__(self, window):
@@ -13,7 +13,7 @@ class QuickActionsWindow:
         self.window.border(0)
 
         # Créer une instance du contrôleur de fenêtre QuickActionsWindowController
-        controller = QuickActionsWindowController(config_path)
+        controller = QAWC(config_path)
 
         # Obtenir le texte des actions rapides
         menu_text = controller.get_quick_actions_text()
